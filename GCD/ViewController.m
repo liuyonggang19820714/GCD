@@ -108,7 +108,7 @@
         self.myImage2.image = image2;
     });
 
-    // 2016.4.14 1
+    // 5:48
 }
 
 -(void)async
